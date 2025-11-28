@@ -4,7 +4,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.concurrent.atomic.AtomicLong;
 
 import jakarta.inject.Singleton;
-import org.acme.reservation.reservation.Reservation;
+import org.acme.reservation.entity.Reservation;
 
 @Singleton
 public class InMemoryInventoryClient implements InventoryClient {

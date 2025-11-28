@@ -1,6 +1,6 @@
 package org.acme.reservation.inventory;
 
-import org.acme.reservation.reservation.Reservation;
+import org.acme.reservation.entity.Reservation;
 
 import java.util.List;
 
